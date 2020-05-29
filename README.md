@@ -1,7 +1,7 @@
-# TODO: LINK TO REPORT, add rest of results
+# TODO: LINK TO REPORT, add rest of results, finish intro/change to overview
 
 # LookaheadOptimizer
-Reproduction of CIFAR-10/CIFAR-100 and Penn Treebank experiments to test claims in "LookaheadOptimizer: k steps forward, 1 step back" https://arxiv.org/abs/1907.08610
+Reproduction of CIFAR-10/CIFAR-100 and Penn Treebank experiments to test claims in "[LookaheadOptimizer: k steps forward, 1 step back](https://arxiv.org/abs/1907.08610)" 
 
 -----------------------------------------------------------------
 
@@ -16,7 +16,9 @@ See PAPER FOR MORE INFO
 ## Team Members 
 
 Connah Romano-Scott - crs1u19@soton.ac.uk
+
 John Joyce - jvjj1u19@soton.ac.uk
+
 Ilias Kazantzidis - ik3n19@soton.ac.uk
 
 ## Code References 
