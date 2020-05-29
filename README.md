@@ -1,5 +1,3 @@
-# TODO: LINK TO REPORT, add rest of results, finish intro/change to overview
-
 # LookaheadOptimizer
 Reproduction of CIFAR-10/CIFAR-100 and Penn Treebank experiments to test claims in [LookaheadOptimizer: k steps forward, 1 step back](https://arxiv.org/abs/1907.08610) 
 
@@ -9,7 +7,7 @@ Stochastic gradient descent (SGD) is a popular method for training neural networ
 
 Lookahead uses a set of fast weights which lookahead k steps and a set of slow weights with learning rate alpha. From a high-level perspective, Lookahead chooses the search direction by calculating the fast weights of the inner optimizer. The approach facilitates the use of any inner optimizer such as Adam or SGD. This comes with the cost of a slighlty increased time complexity, however the original authors illustrate a significant increase in efficiency. 
 
-This project aims to test these findings by reimplementing the main CIFAR-10/100 and Penn Treebank experiments. See PAPER FOR MORE INFO
+This project aims to test these findings by reimplementing the main CIFAR-10/100 and Penn Treebank experiments. See [our paper](https://github.com/COMP6248-Reproducability-Challenge/LookaheadOptimizer/blob/master/Reproducibility%20Challenge%20LA%20Optimizer.pdf) for more details and results. 
 
 
 ## Team Members 
