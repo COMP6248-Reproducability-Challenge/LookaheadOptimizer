@@ -1,11 +1,12 @@
-This repository tests Lookahead optimisers at the Penn Treebank dataset using the code from 'Regularizing and optimising LSTM language models'.
+### This repository tests Lookahead optimisers at the Penn Treebank dataset using the code from 'Regularizing and optimising LSTM language models'.
 
 Penn Treebank dataset:
 @article{marcus1993building,
   title={Building a large annotated corpus of English: The Penn Treebank},
   author={Marcus, Mitchell and Santorini, Beatrice and Marcinkiewicz, Mary Ann},
-  year={1993}
-}
+  year={1993}}
+  
+  
 ------------------------------------------------------------------------------
 
 Regularizing and optimising LSTM language models (original code):
