@@ -27,4 +27,4 @@ All experiments used the PyTorch implementation of Lookahead (written by Zhang e
 The ResNet-18 implementation in this work (and Zhang et al.'s work) is availble at: https://github.com/uoguelph-mlrg/Cutout/blob/master/model/resnet.py
 
 The Penn Treebank training setup in this work (and Zhang et al.'s work) is modified from: https://github.com/salesforce/awd-lstm-lm
-See [PTB README](https://github.com/COMP6248-Reproducability-Challenge/LookaheadOptimizer/blob/master/PTB/README.MD) for more information on modifications of this code. 
+See [Penn ReadMe](https://github.com/COMP6248-Reproducability-Challenge/LookaheadOptimizer/blob/master/PTB/README.MD) for more information regarding the modifications of this code. 
